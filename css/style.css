@@ -1,0 +1,32 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-weight: 100; font-size: 36px;
+	margin-bottom: 5px; 
+}
+
+h3{
+	font-weight: 300; font-size: 16px;
+	margin-top: 0px;
+}
+
+hr{
+	border-width: 4px; border-color: #BCBBBB;
+	margin-top: 0px;	
+}
+
+h2 {
+	font-weight: 300; font-size: 26px; color: #BCBBBB;	
+}
+
+h4 {
+	color: #434433; font-size: 22px;
+	margin-bottom: 0px; 
+}
+
+p {
+	font-size: 10px;
+	color: #BCBBBB;
+}
